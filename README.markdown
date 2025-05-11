@@ -89,7 +89,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 **Adrian Leśniak**  
 *Software Engineering – Programming Technologies Specialization*  
-📧 [Your contact info, if applicable]
+
 
 ---
 

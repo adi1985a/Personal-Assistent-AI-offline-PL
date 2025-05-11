@@ -1,6 +1,5 @@
 # Personal Assistant AI Offline (EN)
-
-![Personal Assistant](https://via.placeholder.com/800x200.png?text=Personal+Assistant+AI+Offline)  
+ 
 *Polish-language AI assistant running entirely offline, focused on privacy and daily productivity.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

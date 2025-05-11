@@ -1,0 +1,151 @@
+Test jest przeprowadzany poprzez tekstowe i glosowe wpisywanie promptow . 
+Poprawic gdzie jest (BLAD)
+Program czasem odpowiadajac na pytanie lub nie , dodaje "Notatka dodana!" ta informacja jest bledna.
+PRZETESTOWAC KOMENDY GLOSOWE!
+Sprawdzic czy import bez wczesniejszego eksportu zadziala , jesli tak zrobic informacje ,ze nie ma zapisanej bazy
+
+ 
+ --Ogolne:
+
+Kto napisał Pana Tadeusza? - OK - Pytanie o wiedze z literatury - model szybko odpowiada na to pytanie
+Jaka jest stolica Polski? - Pytanie o wiedze z geografii - model szybko odpowiada na to pytanie
+Ile to jest 10 + 3 x 5? - OK - Pytanie matematyczne - model wolno i niepoprawnie odpowiada na to pytanie
+Którego roku był chrzest Polski? - Pytanie o datę - model szybko odpowiada na to pytanie
+Co to jest fotosynteza? - Pytanie o definicję - model wolno odpowiada na to pytanie
+Co to jest AI? - Pytanie o definicję - model wolno odpowiada na to pytanie
+Jak działa silnik odrzutowy? - Pytanie wymagające krótkiego wyjaśnienia - model bardzo wolno odpowiada na to pytanie
+Opowiedz krótką historię o kocie, który poleciał w kosmos. - Pytanie otwarte (kreatywne) - model bardzo wolno odpowiada na to pytanie, odpowiedz jest ucieta i niedokonczona
+What is the capital of Australia? (sprawdzenie, czy model radzi sobie z innym językiem, mimo że ma odpowiadać po polsku) 
+
+
+--Pytania testujące podstawową komunikację:
+
+Jak się nazywasz? OK
+Jakie masz możliwości? OK - wolna odpowiedz
+W czym możesz mi pomóc? OK - wolna odpowiedz
+Jak masz na imię? -Pytanie o imię asystenta - OK
+Ja mam na imię Adrian -> później zapytać: Jak mam na imię? - BLAD - nie pamieta imienia. testowanie pamieci kontekstowej - (BLAD) - poprawic
+ 
+
+--Komendy: 
+
+!stwórz kategorie Zdrowie i Fitness OK
+!stworz kategorie Praca OK
+stwórz kategorie Zakupy OK
+stwórz kategorie Szkola OK
+stwórz kategorie Dziecko OK
+stwórz kategorie Firma OK
+
+stworz kategorię Apartament - OK
+!stwórz kategorię Dom - OK
+!stwórz kategorie Hobby OK 
+stwórz kategorię Spotkania 
+
+!dodaj notatkę Praca Spotkanie z klientem o 18:00 OK
+!dodaj notatkę Praca Spotkanie z klientem o 15:00 OK
+!dodaj notatke Praca Deadline projektu: piątek OK
+dodaj notatkę Praca Spotkanie godzina 14.00 OK
+dodaj notatke Zakupy Mleko, chleb, masło OK
+!dodaj notatkę Dom Wynieść śmieci OK
+!dodaj notatkę Praca Napisać raport OK
+!dodaj notatkę Hobby Nauczyć się grać na gitarze OK
+dodaj notatke Hobby Zbudowac model samolotu  OK
+
+!edytuj notatkę Praca Spotkanie z klientem o 15:00 || Spotkanie z klientem o 16:00 OK
+!edytuj notatke Praca Deadline projektu: piątek || Deadline projektu: sobota OK
+edytuj notatkę Praca Spotkanie godzina 14.00 || Spotkanie godzina 13.00 OK
+edytuj notatke Zakupy Mleko, chleb, masło || Mleko, chleb, masło, bulki i tort OK
+
+!pokaż notatki Praca OK
+!pokaz notatki Zakupy OK
+pokaż notatki Dom OK
+pokaz notatki Hobby OK
+!pokaż notatki OK
+!pokaż kategorie OK
+!pokaż kategorie Praca OK
+
+!usuń notatkę Zakupy Mleko, chleb, masło, bulki i tort - OK 
+!usuń notatke Praca Spotkanie z klientem o 16:00 - OK
+!usun notatkę Praca Deadline projektu: sobota - OK 
+!usun notatke Praca Napisać raport - OK
+
+usuń notatkę Dom Wynieść śmieci - OK
+usuń notatke Hobby Nauczyć się grać na gitarze - OK
+usun notatkę Praca Spotkanie godzina 13.00 - OK
+usun notatke Hobby Zbudowac model samolotu  - OK
+
+!usuń kategorię Dom - OK
+!usuń kategorie Hobby - OK
+!usun kategorię Praca - OK
+!usun kategorie Zakupy - OK
+
+usuń kategorię Zdrowie i fitness - OK
+usuń kategorie Szkola - OK
+usun kategorię Dziecko - OK
+usun kategorie Firma - OK
+
+!wyszukaj notatki klientem OK
+wyszukaj notatki Spotkanie OK
+
+!plan dnia OK
+!eksport notatek OK 
+!import notatek OK 
+!statystyki OK
+
+--Sprawdzanie bledow:
+
+!dodaj notatkę Praca (bez treści) -OK
+pokaż notatki  (Wpisywanie komend bez "!") - OK
+!pokaż notatki NieistniejącaKategoria - OK - (Test przypadku, gdy kategoria nie istnieje)
+!pokaz notatki NieistniejącaKategoria - OK -Próba wyświetlenia notatek z nieistniejącej kategorii
+!pokaz kategorie (bez polskich znakow) - OK
+!dodaj notatkę Zakupy -  OK - sprawdzenie, czy pojawi się komunikat o błędzie
+!dodaj notatkę Praca Spotkanie z klientem o 15:00 - OK - (Próba ponownego dodania: oczekiwany komunikat: "Notatka już istnieje!")
+!dodaj notatkę - OK - (bez kategorii i tresci notatki)
+!dodaj notatke Zakupy Mleko, chleb, masło - OK - (bez polskich znakow)
+!usuń notatkę apartament (bez tresci notatki) - OK  
+!usuń kategorię Nieistniejąca - OK 
+!usuń kategorię - OK
+!usuń notatkę Zakupy Nieistniejąca - OK
+!usun kategorie Zadania (bez polskich znakow) - OK
+!stworz kategorie Obrazy (bez polskich znakow) - OK
+!stwórz kategorie (bez nazwy) - OK
+!edytuj notatke Praca Spotkanie z klientem o 15:00 || Spotkanie z klientem o 16:00- OK - (bez polskich znakow)
+!edytuj notatkę Praca Nieistniejąca || Nowa treść - OK
+dodaj kategorie Osoba - BLAD - mimo blednej komendy tworzenia kategorii, dostaje wypis "notatka utworzona", ale w bazie jej nie ma 
+
+
+--Przyciski i funkcje:
+
+Przyciski w gornym menu:
+Import - Ok, eksportowalem notatki, zamknalem program i baze, usunalem baze, otworzylem program ponownie z czysta baza danych, importowalem z menu glownego (Plik), dostalem potwierdzenie w wypisie ,ale po eksporcie nic sie nie pojawia w oknach notatek i kategorii, dopiero kiedy uruchomie program ponownie (bez usuwania nowej bazy)
+Eksport - OK
+Test Auto czytaj - OK
+Test zmiany hasła - OK - ale zwiekszyc okno bo nie widac przycisku "Zmien haslo", widac go dopiero kiedy powieksze okno. Plik z haslem nie powinien byc widoczny w folderze programu
+Test rozpoznawania głosu ("Głos") - OK , ale czas oczekiwania powinien byc okolo 5 sekund , dopiero wtedy komenda powinna sie wgrywac do prompta
+Test odczytu ("Odtwórz") - OK , stworz tez komende "Odtworz", ktora odczyta ostatni wypis modelu
+Sprawdzenie, czy notatki z dzisiaj pojawiają się w oknie "today_notes_text" - OK
+Kliknięcie w kalendarz – notatki z wybranej daty powinny pojawić się w "daily_text" - OK , ale zniknely notatki ktore wpisywalem dzien wczesniej 15.02.2025, pokazuje tylko notatki z 16.02.2025
+Sprawdzenie skalowania tła przy maksymalizacji okna - OK
+Test komend wpisywanych bez polskich znaków (np. "stworz kategorię test") - OK
+Testowanie bez internetu - OK 
+
+
+--Testowanie nieznanych informacji:
+
+Jak nazywa się najgłębsze jezioro na Marsie? - OK - Pytanie, na które model nie zna odpowiedzi:  (model powinien odpowiedzieć "Przepraszam, nie wiem.").
+Kto? Co? Gdzie? Jak? - OK - Zadanie pytania z zaimkiem pytajacym 
+Streść film Ojciec Chrzestny - OK- Polecenie streszczenia
+
+
+Ważne Wskazówki Podczas Testowania:
+
+- Zwracaj Uwagę na Formatowanie: Czy notatki są wyświetlane poprawnie (myślniki, nagłówki kategorii)? Czy nie ma zbędnych informacji?
+- Sprawdzaj w DB Browser: Po każdym dodaniu/wyświetleniu notatki, otwórz plik notes.db w DB Browser for SQLite i sprawdź, 
+czy dane są poprawnie zapisywane w tabelach notes i categories. To jest bardzo ważne, żeby upewnić się, że baza danych działa poprawnie.
+- Notuj Błędy: Jeśli zauważysz jakikolwiek błąd (zła odpowiedź, złe formatowanie, błąd w terminalu), zapisz dokładnie:
+* Jaką komendę/pytanie wpisałeś/aś.
+* Jaką odpowiedź otrzymałeś/aś.
+* Co powinno się stać.
+* Zrzut ekranu z DB Browser (jeśli dotyczy notatek).
+

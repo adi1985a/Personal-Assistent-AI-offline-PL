@@ -1,0 +1,319 @@
+Ty: !stwórz kategorie Zdrowie i Fitness
+
+
+Eliza: Kategoria 'zdrowie i fitness' zosta³a utworzona!
+
+Ty: !stworz kategorie Praca
+
+
+Eliza: Kategoria 'praca' zosta³a utworzona!
+
+Ty: stwórz kategorie Zakupy
+
+
+Eliza: Kategoria 'zakupy' zosta³a utworzona!
+
+Ty: stwórz kategorie Szkola
+
+
+Eliza: Kategoria 'szkola' zosta³a utworzona!
+
+Ty: stwórz kategorie Dziecko
+
+
+Eliza: Kategoria 'dziecko' zosta³a utworzona!
+
+Ty: stwórz kategorie Firma
+
+
+Eliza: Kategoria 'firma' zosta³a utworzona!
+
+Ty: stwórz kategorie Firma
+
+
+Eliza: Kategoria 'firma' ju¿ istnieje!
+
+Ty: stworz kategoriê Apartament
+
+
+Eliza: Kategoria 'apartament' zosta³a utworzona!
+
+Ty: !stwórz kategoriê Dom
+
+
+Eliza: Kategoria 'dom' zosta³a utworzona!
+
+Ty: !stwórz kategorie Hobby
+
+
+Eliza: Kategoria 'hobby' zosta³a utworzona!
+
+Ty: stwórz kategoriê Spotkania
+
+
+Eliza: Kategoria 'spotkania' zosta³a utworzona!
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 18:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 15:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatke Praca Deadline projektu: pi¹tek
+
+
+Eliza: Notatka dodana!
+
+Ty: dodaj notatkê Praca Spotkanie godzina 14.00
+
+
+Eliza: Notatka dodana!
+
+Ty: dodaj notatke Zakupy Mleko, chleb, mas³o
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Dom Wynieœæ œmieci
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Praca Napisaæ raport
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Hobby Nauczyæ siê graæ na gitarze
+
+
+Eliza: Notatka dodana!
+
+Ty: dodaj notatke Hobby Zbudowac model samolotu
+
+
+Eliza: Notatka dodana!
+
+Ty: !edytuj notatkê Praca Spotkanie z klientem o 15:00 || Spotkanie z klientem o 16:00
+
+
+Eliza: Notatka zedytowana!
+
+Ty: !edytuj notatke Praca Deadline projektu: pi¹tek || Deadline projektu: sobota
+
+
+Eliza: Notatka zedytowana!
+
+Ty: edytuj notatkê Praca Spotkanie godzina 14.00 || Spotkanie godzina 13.00
+
+
+Eliza: Notatka zedytowana!
+
+Ty: edytuj notatke Zakupy Mleko, chleb, mas³o || Mleko, chleb, mas³o, bulki i tort
+
+
+Eliza: Notatka zedytowana!
+
+Ty: !poka¿ notatki Praca
+
+
+Eliza: - Spotkanie z klientem o 18:00
+- Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Ty: !pokaz notatki Zakupy
+
+
+Eliza: - Mleko, chleb, mas³o, bulki i tort
+
+Ty: poka¿ notatki Dom
+
+
+Eliza: - Wynieœæ œmieci
+
+Ty: pokaz notatki Hobby
+
+
+Eliza: - Nauczyæ siê graæ na gitarze
+- Zbudowac model samolotu
+
+Ty: !poka¿ notatki
+
+
+Eliza: Kategoria: Apartament
+- Brak notatek w tej kategorii
+
+Kategoria: Dom
+- Wynieœæ œmieci
+
+Kategoria: Dziecko
+- Brak notatek w tej kategorii
+
+Kategoria: Firma
+- Brak notatek w tej kategorii
+
+Kategoria: Hobby
+- Nauczyæ siê graæ na gitarze
+- Zbudowac model samolotu
+
+Kategoria: Praca
+- Spotkanie z klientem o 18:00
+- Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Kategoria: Spotkania
+- Brak notatek w tej kategorii
+
+Kategoria: Szkola
+- Brak notatek w tej kategorii
+
+Kategoria: Zakupy
+- Mleko, chleb, mas³o, bulki i tort
+
+Kategoria: Zdrowie i fitness
+- Brak notatek w tej kategorii
+
+Ty: !poka¿ kategorie
+
+
+Eliza: - Apartament
+- Dom
+- Dziecko
+- Firma
+- Hobby
+- Praca
+- Spotkania
+- Szkola
+- Zakupy
+- Zdrowie i fitness
+
+Ty: !poka¿ kategorie Praca
+
+
+Eliza: - Spotkanie z klientem o 18:00
+- Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Ty: !usuñ notatkê Zakupy Mleko, chleb, mas³o, bulki i tort
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usuñ notatke Praca Spotkanie z klientem o 16:00
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usun notatkê Praca Deadline projektu: sobota
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usun notatke Praca Napisaæ raport
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usuñ notatkê Dom Wynieœæ œmieci
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usuñ notatke Hobby Nauczyæ siê graæ na gitarze
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usun notatkê Praca Spotkanie godzina 13.00
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usun notatke Hobby Zbudowac model samolotu
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usuñ kategoriê Dom
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !usuñ kategorie Hobby
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !usun kategoriê Praca
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !usun kategorie Zakupy
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usuñ kategoriê Zdrowie i fitness
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usuñ kategorie Szkola
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usun kategoriê Dziecko
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usun kategorie Firma
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !wyszukaj notatki klientem
+
+
+Eliza: Nie znaleziono notatek zawieraj¹cych 'klientem'.
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 18:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !wyszukaj notatki klientem
+
+
+Eliza: Kategoria: Praca
+- Spotkanie z klientem o 18:00
+
+Ty: wyszukaj notatki Spotkanie
+
+
+Eliza: Kategoria: Praca
+- Spotkanie z klientem o 18:00
+
+Ty: !plan dnia
+
+
+Eliza: Oto Twój plan dnia:
+[Praca] - Spotkanie z klientem o 18:00 (utworzona: 2025-02-23T23:33:32)
+
+Ty: !eksport notatek
+
+
+Eliza: Notatki wyeksportowane do notes_export.json!
+

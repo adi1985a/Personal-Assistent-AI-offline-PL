@@ -1,0 +1,23 @@
+# GUI
+tk==0.1.0
+tkcalendar==1.6.1
+Pillow==10.2.0
+
+# AI & Speech
+ollama==0.1.6
+vosk==0.3.45
+PyAudio==0.2.14
+pyttsx3==2.90
+
+# Data Visualization
+matplotlib==3.8.2
+numpy==1.26.4
+
+# Security
+cryptography==42.0.2
+
+# Note: tkinter and sqlite3 are usually included in Python standard library
+# If tkinter is missing, install it using your system package manager:
+# Windows: Installed by default with Python
+# Linux (Ubuntu/Debian): sudo apt-get install python3-tk
+# macOS: brew install python-tk@3.x

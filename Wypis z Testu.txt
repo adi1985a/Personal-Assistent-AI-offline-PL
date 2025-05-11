@@ -1,0 +1,570 @@
+Ty: Kto napisa³ Pana Tadeusza?
+
+
+Eliza: Pan Tadeusz zosta³ napisany przez Adama Mickiewicza. Notatka dodana!
+
+Ty: Jaka jest stolica Polski?
+
+
+Eliza: Warszawa jest stolic¹ Polski.
+
+Ty: Ile to jest 10 + 3 x 5?
+
+
+Eliza: OdpowiedŸ: 25
+
+Obliczenie krok po kroku:
+- Najpierw wykonujemy mno¿enie (3 x 5), które daje wynik 15.
+- Nastêpnie dodajemy do liczby 10, co daje ³¹czny wynik 25.
+
+Ty: Którego roku by³ chrzest Polski?
+
+
+Eliza: Chrzest Polski mia³ miejsce w 966 roku.
+
+Ty: Co to jest fotosynteza?
+
+
+Eliza: Fotosynteza to proces, w którym roœliny, glony i niektóre bakterie przekszta³caj¹ energiê œwietln¹ w energiê chemiczn¹, magazynowan¹ w postaci cukrów. Podczas fotosyntezy dwutlenek wêgla (CO?) jest przekszta³cany w tlen (O?) i glukozê (C?H??O?), a proces ten zachodzi g³ównie w chloroplastach komórek roœlinnych. Fotosynteza odgrywa kluczow¹ rolê w ekosystemach, poniewa¿ jest podstawowym Ÿród³em po¿ywienia dla wiêkszoœci organizmów ¿ywych i dostarcza tlen niezbêdny do oddychania. Reakcje fotosyntezy mo¿na zapisaæ nastêpuj¹co:
+
+6 CO? + 6 H?O + energia œwietlna ? C?H??O? + 6 O?
+
+W skrócie, fotosynteza to proces produkcji glukozy z dwutlenku wêgla i wody przy u¿yciu œwiat³a s³onecznego.
+
+Ty: Co to jest AI?
+
+
+Eliza: AI (sztuczna inteligencja) to dziedzina informatyki zajmuj¹ca siê tworzeniem programów i algorytmów, które potrafi¹ wykonywaæ zadania wymagaj¹ce inteligencji ludzkiej. Obejmuje to rozpoznawanie mowy, obrazów, uczenie maszynowe oraz podejmowanie decyzji. AI mo¿e analizowaæ du¿e iloœci danych, wykrywaæ wzorce i uczyæ siê na podstawie doœwiadczeñ, co pozwala jej na poprawê wydajnoœci i efektywnoœæ z czasem.
+
+Ty: Jak dzia³a silnik odrzutowy?
+
+
+Eliza: Silnik odrzutowy dzia³a na zasadzie wyrzucania spalin przez dysze. Oto podstawowe etapy jego pracy:
+
+1. Powietrze jest zasysane do silnika przez wentylator.
+
+2. W komorze spalania, powietrze miesza siê z paliwem (najczêœciej kerozyn¹), które jest rozpylane i zap³onête przez iskry.
+
+3. Gor¹ce gazy spalinowe powstaj¹ce w wyniku spalania s¹ przyspieszane przez komory dopalania, a nastêpnie kierowane przez dysze wylotowe.
+
+4. Spaliny wyrzucane z du¿¹ prêdkoœci¹ przez dysze generuj¹ ci¹g, który porusza samolot do przodu.
+
+5. Czêœæ energii spalin jest wykorzystywana do napêdzania systemów pok³adowych, takich jak hydraulika i wentylacja.
+
+Silnik odrzutowy mo¿e byæ turboodrzutowy (turbine jet) lub turbowentylatorowy (fanjet). Turbowentylatorowe silniki wykorzystuj¹ wentylator do sprê¿ania powietrza, co zwiêksza ich efektywnoœæ i pozwala na u¿ycie mniejszych jednostek napêdowych.
+
+Przyk³adowe komendy:
+- !dodaj notatkê [silniki] [Silnik odrzutowy dzia³a na zasadzie wyrzucania spalin przez dysze.]
+- !poka¿ notatki [silniki]
+- !plan dnia [Dziœ pracujemy nad projektem silnika odrzutowego]
+
+Przepraszam, nie wiem.
+
+Ty: Opowiedz krótk¹ historiê o kocie, który polecia³ w kosmos.
+
+
+Eliza: ### Notatka: Kosmiczna przygoda kota
+Kategoria: Zabawa i rozrywka
+Treœæ: 
+
+Nazwê go Kosmos. Kot Kosmos mieszka³ w domu z rodzin¹, która bardzo o niego dba³a. Pewnego razu, kiedy obserwowali gwiazdy przez teleskop, Kosmos zauwa¿y³ na niebie jasne œwiat³o i pomyœla³, ¿e to musi byæ coœ niesamowitego.
+
+
+
+Kosmos postanowi³ wznieœæ siê w powietrze i przekonaæ siê, czym jest to œwiec¹ce œwiat³o. Skoczy³ z dachu domu i... uniós³ siê w górê! By³ zdumiony, ¿e potrafi lataæ. Wzbi³ siê coraz wy¿ej, mijaj¹c ptaki i samoloty. W koñcu dotar³ do jasnego œwiat³a, które okaza³o siê byæ rakiet¹ kosmiczn¹ przygotowuj¹c¹ siê do startu.
+
+
+
+Kosmos nie móg³ oprzeæ siê pokusie i wskoczy³ na pok³ad rakiety. Wkrótce potem poczu³, jak silniki ryknê³y i wystrzeli³y go w przestrzeñ kosmiczn¹. By³o to najbardziej ekscytuj¹ce doœwiadczenie w ¿yciu Kosmosa! Z okna rakiety obserwowa³ Ziemiê, która powoli stawa³a siê coraz mniejsza, a¿ w koñcu zniknê³a mu z oczu. Przez ca³y czas mrucza³ z podziwem i rozkoszowa³ siê niesamowitymi widokami kosmosu.
+
+
+
+Po pewnym czasie Kosmos postanowi³ wróciæ na Ziemiê, ale zauwa¿y³, ¿e rakieta nie ma sterów. Na szczêœcie mia³ do
+
+Ty: What is the capital of Australia?
+
+
+Eliza: The capital of Australia is Canberra.
+
+Ty: Jak siê nazywasz?
+
+
+Eliza: Nazywam siê Eliza.
+
+Ty: Jakie masz mo¿liwoœci?
+
+
+Eliza: Jestem asystentem AI o imieniu Eliza. Mogê wykonywaæ nastêpuj¹ce czynnoœci:
+
+- !dodaj notatkê [kategoria] [treœæ]: Dodawanie nowych notatek do okreœlonej kategorii.
+- !edytuj notatkê [kategoria] [stara treœæ] || [nowa treœæ]: Edycja istniej¹cej notatki poprzez zmianê jej treœci lub kategorii.
+- !usuñ notatkê [kategoria] [treœæ]: Usuwanie konkretnej notatki na podstawie jej treœci i kategorii.
+- !usuñ kategoriê [nazwa kategorii]: Usuwanie ca³ej kategorii wraz z zawartymi w niej notatkami.
+- !wyszukaj notatki [s³owo_kluczowe]: Wyszukiwanie wszystkich notatek zawieraj¹cych okreœlone s³owo kluczowe.
+- !poka¿ notatki [kategoria]: Wyœwietlanie listy notatek z wybranej kategorii.
+- !poka¿ notatki: Wyœwietlanie wszystkich notatek we wszystkich kategoriach.
+- !stwórz kategoriê [nazwa kategorii]: Tworzenie nowej kategorii do przechowywania notatek.
+- !poka¿ kategorie: Wyœwietlanie listy wszystkich utworzonych kategorii.
+- !plan dnia: Generowanie prostego planu dnia na podstawie dostêpnych notatek i ich terminów.
+- !eksport notatek: Eksportowanie wszystkich notatek do formatu JSON, umo¿liwiaj¹c archiwizacjê lub udostêpnienie innym osobom.
+- !import notatek: Importowanie notatek z pl
+
+Ty: W czym mo¿esz mi pomóc?
+
+
+Eliza: Jestem tu, aby odpowiadaæ na pytania i wykonywaæ polecenia zwi¹zane z notatkami i planowaniem. Czy mogê w czymœ pomóc?
+
+Ty: Jak masz na imiê?
+
+
+Eliza: Nazywam siê Eliza.
+
+Ty: Ja mam na imiê Adrian
+
+
+Eliza: Czeœæ Adrianie! Mi³o Ciê poznaæ. Notatka dodana!
+
+Ty: Jak ja mam na imiê?
+
+
+Eliza: Twoje imiê to Eliza.
+
+Ty: Nie! Moje imie to Adrian, twoje imie to Eliza
+
+
+Eliza: Dziêkujê za uœciœlenie. Jestem asystentk¹ AI o imieniu Eliza, a Ty jesteœ Adrianem. W czym mogê Ci dzisiaj pomóc?
+
+Ty: Powiedz jak ja mam na imie?
+
+
+Eliza: Przepraszam, nie wiem.
+
+Ty: !stwórz kategorie Zdrowie i Fitness
+
+
+Eliza: Kategoria 'Zdrowie i Fitness' zosta³a utworzona!
+
+Ty: !stworz kategorie Praca
+
+
+Eliza: Kategoria 'Praca' zosta³a utworzona!
+
+Ty: stwórz kategorie Zakupy
+
+
+Eliza: Kategoria 'Zakupy' zosta³a utworzona!
+
+Ty: !stwórz kategorie Hobby
+
+
+Eliza: Kategoria 'Hobby' zosta³a utworzona!
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 15:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatke Praca Deadline projektu: pi¹tek
+
+
+Eliza: Notatka dodana!
+
+Ty: dodaj notatkê Praca Spotkanie godzina 14.00
+
+
+Eliza: Notatka dodana!
+
+Ty: dodaj notatke Zakupy Mleko, chleb, mas³o
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Dom Wynieœæ œmieci
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Praca Napisaæ raport
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Hobby Nauczyæ siê graæ na gitarze
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Hobby Nauczyæ siê graæ na gitarze
+
+
+Eliza: Notatka ju¿ istnieje!
+
+Ty: !edytuj notatkê Praca Spotkanie z klientem o 15:00 || Spotkanie z klientem o 16:00
+
+
+Eliza: Notatka zedytowana!
+
+Ty: !edytuj notatke Praca Deadline projektu: pi¹tek || Deadline projektu: sobota
+
+
+Eliza: Notatka zedytowana!
+
+Ty: edytuj notatkê Praca Spotkanie godzina 14.00 || Spotkanie godzina 13.00
+
+
+Eliza: Notatka zedytowana!
+
+Ty: edytuj notatke Zakupy Mleko, chleb, mas³o || Mleko, chleb, mas³o, bulki i tort
+
+
+Eliza: Notatka zedytowana!
+
+Ty: !poka¿ notatki Praca
+
+
+Eliza: - Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Ty: !pokaz notatki Zakupy
+
+
+Eliza: - Mleko, chleb, mas³o, bulki i tort
+
+Ty: poka¿ notatki Dom
+
+
+Eliza: - Wynieœæ œmieci
+
+Ty: pokaz notatki Hobb
+
+
+Eliza: Brak notatek w kategorii 'Hobb'.
+
+Ty: pokaz notatki Hobby
+
+
+Eliza: - Nauczyæ siê graæ na gitarze
+
+Ty: !poka¿ notatki
+
+
+Eliza: Kategoria: Dom
+- Wynieœæ œmieci
+
+Kategoria: Hobby
+- Nauczyæ siê graæ na gitarze
+
+Kategoria: Praca
+- Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Kategoria: Zakupy
+- Mleko, chleb, mas³o, bulki i tort
+
+Kategoria: Zdrowie i fitness
+- Brak notatek w tej kategorii
+
+Ty: !poka¿ kategorie
+
+
+Eliza: - Dom
+- Hobby
+- Praca
+- Zakupy
+- Zdrowie i fitness
+
+Ty: !poka¿ kategorie Praca
+
+
+Eliza: - Spotkanie z klientem o 16:00
+- Deadline projektu: sobota
+- Spotkanie godzina 13.00
+- Napisaæ raport
+
+Ty: !usuñ notatkê Zakupy Mleko, chleb, mas³o, bulki i tort
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usuñ notatke Spotkanie z klientem o 16:00
+
+
+Eliza: Kategoria nie istnieje!
+
+Ty: !usuñ notatke Praca Spotkanie z klientem o 16:00
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usun notatkê Praca Deadline projektu: sobota
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usun notatke Praca Napisaæ raport
+
+
+Eliza: Notatka usuniêta!
+
+Ty: dodaj notatke Hobby Zbudowac model samolotu
+
+
+Eliza: Notatka dodana!
+
+Ty: usuñ notatkê Dom Wynieœæ œmieci
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usuñ notatke Hobby Nauczyæ siê graæ na gitarze
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usun notatkê Praca Spotkanie godzina 13.00
+
+
+Eliza: Notatka usuniêta!
+
+Ty: usun notatke Hobby Zbudowac model samolotu
+
+
+Eliza: Notatka usuniêta!
+
+Ty: !usuñ kategoriê Dom
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: stwórz kategorie Szkola
+
+
+Eliza: Kategoria 'Szkola' zosta³a utworzona!
+
+Ty: stwórz kategorie Dziecko
+
+
+Eliza: Kategoria 'Dziecko' zosta³a utworzona!
+
+Ty: stwórz kategorie Firma
+
+
+Eliza: Kategoria 'Firma' zosta³a utworzona!
+
+Ty: usuñ kategoriê Zdrowie i fitness
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usuñ kategorie Szkola
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usun kategoriê Dziecko
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: usun kategorie Firma
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !usun kategorie Zakupy
+
+
+Eliza: Kategoria usuniêta!
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 15:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !wyszukaj notatki klientem
+
+
+Eliza: Kategoria: Praca
+- Spotkanie z klientem o 15:00
+
+Ty: wyszukaj notatki Spotkanie
+
+
+Eliza: Kategoria: Praca
+- Spotkanie z klientem o 15:00
+
+Ty: !plan dnia
+
+
+Eliza: Oto Twój plan dnia:
+[Praca] - Spotkanie z klientem o 15:00 (utworzona: 2025-02-17T01:54:24)
+
+Ty: !eksport notatek
+
+
+Eliza: Notatki wyeksportowane do notes_export.json!
+
+Ty: usun kategorie Hobby
+
+
+Eliza: Kategoria usuniêta!
+
+
+Eliza: Notatki zaimportowane z notes_export.json!
+
+Ty: usun kategorie Praca
+
+
+Eliza: Kategoria usuniêta!
+
+
+Eliza: Notatki wyeksportowane do notes_export.json!
+
+Ty: dodaj notatke Hobby Plan modelu
+
+
+Eliza: Notatka dodana!
+
+
+Eliza: Notatki wyeksportowane do notes_export.json!
+
+Ty: usun kategorie Hobby
+
+
+Eliza: Kategoria usuniêta!
+
+
+Eliza: Notatki zaimportowane z notes_export.json!
+
+Ty: stworz kategorie Praca
+
+
+Eliza: Kategoria 'Praca' zosta³a utworzona!
+
+Ty: !statystyki
+
+
+Eliza: Statystyki notatek:
+Hobby: 1 notatek
+Praca: 0 notatek
+
+Ty: !dodaj notatkê Praca
+
+
+Eliza: B³¹d: Nieprawid³owy format komendy. U¿yj: dodaj notatkê [kategoria] [treœæ]
+
+Ty: poka¿ notatki
+
+
+Eliza: Kategoria: Hobby
+- Plan modelu
+
+Kategoria: Praca
+- Brak notatek w tej kategorii
+
+Ty: !poka¿ notatki Nieistniej¹caKategoria
+
+
+Eliza: Brak notatek w kategorii 'Nieistniej¹cakategoria'.
+
+Ty: !pokaz notatki Nieistniej¹caKategoria
+
+
+Eliza: Brak notatek w kategorii 'Nieistniej¹cakategoria'.
+
+Ty: !pokaz kategorie
+
+
+Eliza: - Hobby
+- Praca
+
+Ty: !dodaj notatkê Zakupy
+
+
+Eliza: B³¹d: Nieprawid³owy format komendy. U¿yj: dodaj notatkê [kategoria] [treœæ]
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 15:00
+
+
+Eliza: Notatka dodana!
+
+Ty: !dodaj notatkê Praca Spotkanie z klientem o 15:00
+
+
+Eliza: Notatka ju¿ istnieje!
+
+Ty: !dodaj notatkê
+
+
+Eliza: B³¹d: Nieprawid³owy format komendy. U¿yj: dodaj notatkê [kategoria] [treœæ]
+
+Ty: !dodaj notatke Zakupy Mleko, chleb, mas³o
+
+
+Eliza: Notatka dodana!
+
+Ty: !usuñ notatkê apartament
+
+
+Eliza: B³¹d: U¿yj formatu: usuñ notatkê [kategoria] [treœæ]
+
+Ty: !usuñ kategoriê Nieistniej¹ca
+
+
+Eliza: Kategoria nie istnieje!
+
+Ty: !usuñ kategoriê
+
+
+Eliza: B³¹d: U¿yj formatu: usuñ kategoriê [nazwa]
+
+Ty: !usuñ notatkê Zakupy Nieistniej¹ca
+
+
+Eliza: Notatka nie zosta³a znaleziona!
+
+Ty: !usun kategorie Zadania
+
+
+Eliza: Kategoria nie istnieje!
+
+Ty: !stworz kategorie Obrazy
+
+
+Eliza: Kategoria 'Obrazy' zosta³a utworzona!
+
+Ty: !stwórz kategorie
+
+
+Eliza: B³¹d: Nieprawid³owy format komendy. U¿yj: stwórz kategoriê [nazwa kategorii]
+
+Ty: !edytuj notatke Praca Spotkanie z klientem o 15:00 || Spotkanie z klientem o 16:00
+
+
+Eliza: Notatka zedytowana!
+
+Ty: !edytuj notatkê Praca Nieistniej¹ca
+
+
+Eliza: B³¹d: U¿yj formatu: edytuj notatkê [kategoria] [stara treœæ] || [nowa treœæ]
+
+Ty: dodaj notatke Praca interesy
+
+
+Eliza: Notatka dodana!
+
+Ty: spotkanie
+
+
+Eliza: Przepraszam, nie wiem. Czy chodzi Ci o planowanie spotkania? Jeœli tak, mogê pomóc Ci stworzyæ notatkê na ten temat lub zaproponowaæ prosty plan dnia uwzglêdniaj¹cy to spotkanie.
+
+Ty: Tak chodzi mi o planowanie spotkania, chce dodac notatke
+
+
+Eliza: !dodaj notatkê Planowanie_spotkañ "Jak przygotowaæ plan spotkania biznesowego"
+
+

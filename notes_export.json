@@ -1,0 +1,114 @@
+{
+    "Apartament": [
+        {
+            "content": "Posprzatac salon",
+            "creation_date": "2025-02-24T00:12:08"
+        },
+        {
+            "content": "Kupic lampy",
+            "creation_date": "2025-02-24T00:54:16"
+        },
+        {
+            "content": "Remont lazienki",
+            "creation_date": "2025-02-24T01:22:24"
+        },
+        {
+            "content": "Kupic rzezbe",
+            "creation_date": "2025-02-24T20:25:42"
+        }
+    ],
+    "Spotkania": [],
+    "Praca": [
+        {
+            "content": "Spotkanie z klientem o 18:00",
+            "creation_date": "2025-02-23T23:33:32"
+        },
+        {
+            "content": "Spotkanie z klientem o 16:00",
+            "creation_date": "2025-02-24T00:01:15"
+        },
+        {
+            "content": "Deadline projektu: piątek",
+            "creation_date": "2025-02-24T00:01:20"
+        },
+        {
+            "content": "Napisać raport",
+            "creation_date": "2025-02-24T00:02:08"
+        },
+        {
+            "content": "spotkanie z klientem o dwudziestej drugiej",
+            "creation_date": "2025-02-25T02:56:44"
+        },
+        {
+            "content": "Spotkanie z klientem godz 17:00",
+            "creation_date": "2025-02-27T23:56:20"
+        },
+        {
+            "content": "Stworzyc strone www",
+            "creation_date": "2025-02-27T23:56:55"
+        },
+        {
+            "content": "Spotkanie z klientem o 15:00",
+            "creation_date": "2025-02-28T01:14:50"
+        },
+        {
+            "content": "Spotkanie z klientem o 8:00",
+            "creation_date": "2025-02-28T01:56:13"
+        }
+    ],
+    "Zdrowie i fitness": [],
+    "Zakupy": [
+        {
+            "content": "Mleko, chleb, masło, bulki i tort",
+            "creation_date": "2025-02-24T00:01:37"
+        },
+        {
+            "content": "Mleko, chleb, masło",
+            "creation_date": "2025-02-24T00:05:32"
+        },
+        {
+            "content": "Kupic zupki chinskie",
+            "creation_date": "2025-02-24T00:53:48"
+        }
+    ],
+    "Dziecko": [],
+    "Firma": [],
+    "Obrazy": [],
+    "Zabawa": [],
+    "Dom": [
+        {
+            "content": "Wynieść śmieci",
+            "creation_date": "2025-02-24T00:02:01"
+        },
+        {
+            "content": "Posprzatac",
+            "creation_date": "2025-02-24T00:33:26"
+        },
+        {
+            "content": "Kupic szafe",
+            "creation_date": "2025-02-27T23:57:54"
+        },
+        {
+            "content": "Zrobic zakupy na obiad",
+            "creation_date": "2025-02-28T01:56:52"
+        }
+    ],
+    "Wraca": [],
+    "Książka": [
+        {
+            "content": "rozdział pierwszy",
+            "creation_date": "2025-02-25T02:46:53"
+        }
+    ],
+    "Domek": [],
+    "Golf": [
+        {
+            "content": "jeden 1",
+            "creation_date": "2025-02-26T01:30:22"
+        },
+        {
+            "content": "Rubix",
+            "creation_date": "2025-02-26T02:32:20"
+        }
+    ]
+}

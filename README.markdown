@@ -1,96 +1,96 @@
-# Personal Assistant AI Offline (PL)
+# Personal Assistant AI Offline (EN)
 
 ![Personal Assistant](https://via.placeholder.com/800x200.png?text=Personal+Assistant+AI+Offline)  
-*Polskojęzyczny asystent AI działający lokalnie bez połączenia z Internetem.*
+*Polish-language AI assistant running entirely offline, focused on privacy and daily productivity.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-## Spis treści
-- [Opis](#opis)
-- [Funkcje](#funkcje)
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Uruchomienie](#uruchomienie)
-- [Struktura projektu](#struktura-projektu)
-- [Licencja](#licencja)
-- [Autor](#autor)
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [License](#license)
+- [Author](#author)
 
-## Opis
+## Description
 
-Projekt jest osobistym asystentem AI działającym offline i wspierającym język polski. Umożliwia interakcję głosową i tekstową, zarządzanie notatkami, plan dnia oraz wizualizacje danych — wszystko bez konieczności łączenia się z Internetem, co zapewnia pełną prywatność użytkownika.
+**Personal Assistant AI Offline** is a desktop application designed to assist users in Polish through voice or text commands. It works entirely offline, ensuring user privacy, and includes a local database, smart scheduling, encrypted note storage, and visual data representation.
 
-## Funkcje
+## Features
 
-- 💬 Obsługa języka polskiego
-- 🧠 Model AI działający lokalnie (np. GPT-2 lub Bielik)
-- 🎙️ Rozpoznawanie mowy (Vosk)
-- 🗣️ Synteza mowy (pyttsx3)
-- 📝 Zarządzanie notatkami lokalnymi (SQLite)
-- 📊 Prezentacja danych na wykresach (Matplotlib)
-- 🔐 Szyfrowanie notatek (Cryptography)
-- 🕓 Automatyczne uruchamianie z systemem (opcjonalnie)
-- 📆 Plan dnia i przypomnienia
+- 💬 Polish language support
+- 🧠 Local AI model (e.g., GPT-2 or Bielik via Ollama)
+- 🎙️ Speech recognition (Vosk)
+- 🗣️ Speech synthesis (pyttsx3)
+- 📝 Note management using SQLite
+- 📊 Data visualization with charts (Matplotlib)
+- 🔐 Encrypted note storage (Cryptography)
+- 🕓 Optional system startup integration
+- 📆 Daily schedule with reminders
 
-## Wymagania
+## Requirements
 
-- **Python 3.10 lub nowszy**
-- Zainstalowane biblioteki:
+- **Python 3.10 or newer**
+- Required libraries:
   - `vosk`
   - `pyttsx3`
-  - `sqlite3` (wbudowane)
+  - `sqlite3` (built-in)
   - `matplotlib`
   - `cryptography`
   - `tkinter` (GUI)
-  - `transformers` / `ollama` / `gpt2` (w zależności od modelu)
+  - `transformers`, `ollama`, or `gpt2` (depending on your AI model)
 
-Pełną listę zależności znajdziesz w pliku `requirements.txt`.
+All dependencies are listed in `requirements.txt`.
 
-## Instalacja
+## Installation
 
-1. Sklonuj repozytorium:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/personal-assistant-ai-offline.git
    ```
 
-2. Przejdź do katalogu projektu:
+2. Navigate to the project folder:
    ```bash
    cd "f:\My Portafolio IT ulepszona\AI\Personal assistent AI offline PL"
    ```
 
-3. Zainstaluj wymagane biblioteki:
+3. Install required packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Uruchomienie
+## Usage
 
-Uruchom program za pomocą komendy:
+To start the assistant, run:
 ```bash
 python main.py
 ```
 
-## Struktura projektu
+## Project Structure
 
-- `main.py` – Główna aplikacja (GUI, logika, sterowanie)
-- `asystent/` – Moduły asystenta: AI, mowa, baza danych, interfejs
-- `db/` – Pliki SQLite z lokalnymi notatkami
-- `resources/` – Ikony, obrazy, modele głosowe
-- `requirements.txt` – Lista zależności
-- `README.markdown` – Opis projektu
-- `LICENSE` – Licencja MIT
+- `main.py` – Main application with UI and logic
+- `asystent/` – Modules: AI core, speech, database, interface
+- `db/` – SQLite database for local notes
+- `resources/` – Images, icons, speech models
+- `requirements.txt` – List of required Python packages
+- `README.markdown` – Project documentation
+- `LICENSE` – MIT license file
 
-## Licencja
+## License
 
-Projekt dostępny na licencji **MIT**. Szczegóły znajdziesz w pliku `LICENSE`.
+This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
 
-## Autor
+## Author
 
 **Adrian Leśniak**  
-*Inżynieria oprogramowania – specjalność: technologie programowania*  
-📧 [Twoje dane kontaktowe, jeśli chcesz]
+*Software Engineering – Programming Technologies Specialization*  
+📧 [Your contact info, if applicable]
 
 ---
 
-> ✅ Jeśli projekt Ci się podoba, zostaw ⭐ na GitHubie!
+> ✅ If you find this project useful, feel free to give it a ⭐ on GitHub!

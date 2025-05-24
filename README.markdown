@@ -67,6 +67,9 @@ python main.py
 ```
 ---
 
+## 📁 Project Structure
+
+```
 personal-assistant-ai-offline/
 │
 ├── main.py                  # Main app with UI and logic  
@@ -76,7 +79,7 @@ personal-assistant-ai-offline/
 ├── requirements.txt         # Python dependencies  
 ├── README.markdown          # Project documentation  
 └── LICENSE                  # MIT license file  
-
+```
 
 ## 📄 License  
 This project is open-source and released under the [MIT License](https://opensource.org/licenses/MIT).  

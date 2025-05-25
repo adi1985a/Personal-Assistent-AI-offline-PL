@@ -85,12 +85,6 @@ This **Personal AI Assistant** is a sophisticated desktop application for Window
 
 **Coming Soon!**
 
-_This section should be populated with actual screenshots of the Personal AI Assistant, showcasing its Polish user interface. Please add them to a `screenshots/` folder in your repository._
-*   `screenshots/screenshot_main_pl.png`: The main application window (chat, notes, menu - with Polish labels).
-*   `screenshots/screenshot_calendar_pl.png`: The calendar view for notes.
-*   `screenshots/screenshot_stats_pie_pl.png`: Example of a pie chart for note categories.
-*   `screenshots/screenshot_settings_pl.png`: The settings panel.
-*   *(Add more as needed to showcase key features with the Polish UI).*
 
 ## 🛠️ System Requirements
 

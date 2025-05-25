@@ -22,31 +22,31 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
 </div>
 
 ## 📋 Table of Contents
-1.  [Overview](#-overview)
-2.  [Key Features](#-key-features)
-3.  [Screenshots](#-screenshots)
-4.  [System Requirements](#-system-requirements)
+1.  [Overview](#overview)
+2.  [Key Features](#key-features)
+3.  [Screenshots](#screenshots)
+4.  [System Requirements](#system-requirements)
     *   [Operating System](#operating-system)
     *   [Python Version](#python-version)
     *   [Python Libraries](#python-libraries)
-5.  [Installation Guide](#️-installation-guide)
-6.  [Running the Application](#-running-the-application)
-7.  [Using the Application (Polish UI)](#-using-the-application-polish-ui)
+5.  [Installation Guide](#installation-guide)
+6.  [Running the Application](#running-the-application)
+7.  [Using the Application (Polish UI)](#using-the-application-polish-ui)
     *   [Login](#login)
-    *   [Main Interface](#main-interface)
-    *   [Voice Commands](#voice-commands)
-    *   [Attachments](#attachments)
-    *   [Export/Import Notes](#exportimport-notes)
-    *   [Charts & Statistics](#charts--statistics)
-    *   [Startup with Windows](#startup-with-windows)
-8.  [Security](#-security)
-9.  [Customization](#-customization)
-10. [Troubleshooting](#-troubleshooting)
-11. [Project File Structure (Expected)](#-project-file-structure-expected)
-12. [Credits & Technologies](#-credits--technologies)
-13. [Contributing](#-contributing)
-14. [License](#-license)
-15. [Author & Contact](#-author--contact)
+    *   [Main Interface (Polish Labels)](#main-interface-polish-labels)
+    *   [Voice Commands (Polish UI for controls)](#voice-commands-polish-ui-for-controls)
+    *   [Attachments (Polish UI for controls)](#attachments-polish-ui-for-controls)
+    *   [Export/Import Notes (Polish UI for menu items)](#exportimport-notes-polish-ui-for-menu-items)
+    *   [Charts & Statistics (Polish UI for menu items)](#charts--statistics-polish-ui-for-menu-items)
+    *   [Startup with Windows (Polish UI for settings)](#startup-with-windows-polish-ui-for-settings)
+8.  [Security](#security)
+9.  [Customization](#customization)
+10. [Troubleshooting](#troubleshooting)
+11. [Project File Structure (Expected)](#project-file-structure-expected)
+12. [Credits & Technologies](#credits--technologies)
+13. [Contributing](#contributing)
+14. [License](#license)
+15. [Author & Contact](#author--contact)
 
 ## 📄 Overview
 
@@ -84,7 +84,6 @@ This **Personal AI Assistant** is a sophisticated desktop application for Window
 ## 🖼️ Screenshots
 
 **Coming Soon!**
-
 
 ## 🛠️ System Requirements
 
@@ -240,10 +239,14 @@ This **Personal AI Assistant** is a sophisticated desktop application for Window
 
 *   `main.py`: Main Python script (Tkinter GUI, core logic).
 *   `model/`: Directory for the Vosk speech recognition model.
+    *   `vosk-model-small-en-us-0.15/` (or similar)
 *   `graphics/`: Directory for UI image assets.
-*   `notes.db`: SQLite database (created at runtime).
+    *   `logo.png`
+    *   `background.gif` (or `background.jpg`)
+    *   ... (other `.png` files)
+*   `notes.db`: SQLite database file (created at runtime) storing user notes, categories, and encrypted password.
 *   `notes_export.json`: Default filename for exported notes.
-*   `requirements.txt`: Python package dependencies.
+*   `requirements.txt`: Lists Python package dependencies.
 *   `README.md`: This documentation file.
 *   (Potentially other `.py` modules for better organization).
 

@@ -83,7 +83,9 @@ This **Personal AI Assistant** is a sophisticated desktop application for Window
 
 ## 🖼️ Screenshots
 
-**Coming Soon!**
+<p align="center">
+  <img src="screenshots/AI.gif" width="700" alt="AI Assistant demo">
+</p>
 
 ## 🛠️ System Requirements
 

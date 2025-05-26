@@ -31,6 +31,7 @@ This **Personal AI Assistant** is a sophisticated desktop application for Window
   <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
   <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
 </div>
+---
 
 ## 📋 Table of Contents
 1.  [Overview](#overview)

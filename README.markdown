@@ -18,15 +18,15 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
 </p>
 
 
-<div align="center">
-  <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
-  <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
-</div>
-
 ## 🎞️ Demo
 <p align="center">
   <img src="screenshots/AI.gif" width="700" alt="AI Assistant demo">
 </p>
+
+<div align="center">
+  <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
+  <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
+</div>
 
 ## 📋 Table of Contents
 1.  [Overview](#overview)

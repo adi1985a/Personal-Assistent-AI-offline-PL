@@ -17,6 +17,10 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
   <!-- <img src="graphics/banner.png" alt="Personal AI Assistant Banner" width="700"> -->
 </p>
 
+## 📄 Overview
+
+This **Personal AI Assistant** is a sophisticated desktop application for Windows, meticulously crafted by Adrian Lesniak. It serves as an intelligent companion to help manage your daily productivity through note-taking, category organization, daily plan generation, and much more, with a **user interface primarily in Polish**. The assistant operates **offline**, leveraging local Large Language Models (LLMs) via **Ollama** for its AI chat capabilities (e.g., "Eliza" persona or the Polish "bielik" model) and **Vosk** for offline speech recognition. It features a modern, responsive Graphical User Interface (GUI) built with **Tkinter**, complete with animated backgrounds and custom icons. Advanced functionalities include attaching files to notes, visualizing data with statistics and charts (using Matplotlib), and ensuring your data's security with encrypted password protection.
+
 
 ## 🎞️ Demo
 <p align="center">
@@ -54,10 +58,6 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
 13. [Contributing](#contributing)
 14. [License](#license)
 15. [Author & Contact](#author--contact)
-
-## 📄 Overview
-
-This **Personal AI Assistant** is a sophisticated desktop application for Windows, meticulously crafted by Adrian Lesniak. It serves as an intelligent companion to help manage your daily productivity through note-taking, category organization, daily plan generation, and much more, with a **user interface primarily in Polish**. The assistant operates **offline**, leveraging local Large Language Models (LLMs) via **Ollama** for its AI chat capabilities (e.g., "Eliza" persona or the Polish "bielik" model) and **Vosk** for offline speech recognition. It features a modern, responsive Graphical User Interface (GUI) built with **Tkinter**, complete with animated backgrounds and custom icons. Advanced functionalities include attaching files to notes, visualizing data with statistics and charts (using Matplotlib), and ensuring your data's security with encrypted password protection.
 
 ## ✨ Key Features
 

@@ -17,13 +17,12 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
   <!-- <img src="graphics/banner.png" alt="Personal AI Assistant Banner" width="700"> -->
 </p>
 
-## 🎞️ Demo
 <div align="center">
   <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
   <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
 </div>
 
-
+## 🎞️ Demo
 <p align="center">
   <img src="screenshots/AI.gif" width="700" alt="AI Assistant demo">
 </p>

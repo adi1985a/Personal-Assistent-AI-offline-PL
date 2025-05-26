@@ -1,10 +1,6 @@
 # 🧠✨ Your Personal AI Assistant: Offline (Polish UI) 📝
 _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (offline speech recognition), and Tkinter for a rich GUI. Features chat, note-taking, voice interaction, data visualization, and robust security for 100% offline and private operation, with a **Polish user interface**._
 
-<p align="center">
-  <img src="screenshots/AI.gif" width="700" alt="AI Assistant demo">
-</p>
-
 [![License: Custom (See Below)](https://img.shields.io/badge/License-Custom%20(All%20Rights%20Reserved)-lightgrey.svg)](#-license)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)]()
@@ -24,6 +20,11 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
   <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
   <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
 </div>
+
+---
+<p align="center">
+  <img src="screenshots/AI.gif" width="700" alt="AI Assistant demo">
+</p>
 
 ## 📋 Table of Contents
 1.  [Overview](#overview)

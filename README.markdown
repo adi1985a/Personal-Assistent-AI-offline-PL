@@ -11,13 +11,13 @@ _An AI-powered personal assistant built with Python, Ollama (local LLM), Vosk (o
 [![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-informational.svg?logo=matplotlib)](https://matplotlib.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-## 🎞️ Demo
 
 <p align="center">
   <!-- Add a graphics/banner.png here if you create one for the repository -->
   <!-- <img src="graphics/banner.png" alt="Personal AI Assistant Banner" width="700"> -->
 </p>
 
+## 🎞️ Demo
 <div align="center">
   <strong>🤖 Built with Python · Ollama · Vosk · Tkinter 🛡️</strong><br>
   <strong>✨ 100% Offline · 100% Private · 100% Yours ✨</strong>
